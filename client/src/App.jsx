@@ -2,7 +2,7 @@ import { motion } from "framer-motion";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import "./App.css";
 import AboutPage from "./pages/AboutPage";
-import ParticlesEffect from "./pages/particles";
+import ParticlesEffect from "./pages/Particles";
 import ServicePage from "./pages/ServicePage";
 import Layout from "./layout/Layout";
 import RootLayout from "./layout/RootLayout";
